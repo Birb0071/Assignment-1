@@ -35,6 +35,7 @@ margin-left: 60px;
   justify-content: center;
   margin-left: 50px;
   align-items: center;
+  margin-bottom: 100px;
 }
 
 .about-birb {
@@ -43,3 +44,23 @@ margin-left: 60px;
 }
 
 /*  part 2  */
+
+
+/* part 3 */
+.part3h{
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+.cube{
+  border: 2px solid black;
+  width: 450px;
+  padding: 15px;
+  margin: 15px 15px 15px;
+}
+
+.insider{
+  display: flex;
+  
+}
+/* part3 */
