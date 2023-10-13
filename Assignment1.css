@@ -9,6 +9,8 @@ body {
 /* <!-- SECTION 1 STARTS --> */
 .part1{
   display: flex;
+  margin-bottom: 100px;
+  margin-left: 60px;
   
 }
 .part1 h1{
@@ -25,3 +27,19 @@ body {
 margin-left: 60px;
 }
 /* <!-- SECTION 1 ENDS --> */
+
+
+/* part 2 */
+.part2 {
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  align-items: center;
+}
+
+.about-birb {
+  margin-left: 120px;
+  margin-right: 50px;
+}
+
+/*  part 2  */
